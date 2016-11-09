@@ -1,0 +1,2 @@
+run python test_x.py to do the unit test 
+run python test_x.py -v to get detail sample

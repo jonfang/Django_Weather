@@ -1,0 +1,8 @@
+mongo_client:
+-see all databases: client.database_names()
+-see all collections in a db: db.collection_names()
+
+import data set:
+1.python main.py > output.json to get json file
+2.(from shell)mongoimport --db test --collection restaurants --drop --file ~/downloads/primer-dataset.json
+for weather: mongoimport --db test --collection sample_weather 

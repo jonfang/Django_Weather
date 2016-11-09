@@ -1,0 +1,2 @@
+100 locations ===> 30 sec
+200 locations ===> ~50 sec

@@ -1,0 +1,19 @@
+<html>
+<!-- testing html to check search functionality, ignore-->
+<head>
+    <title>Search For Weather</title>
+</head>
+{% if error %}
+        <p style="color: red;">Please submit a correct search term.</p>
+{% endif %}
+<body>
+    <h1>Sample Search Form</h1>
+    <form action="/weather/search/" method="get">
+        <input type="text" name="q">
+        <input type="submit" value="Search">
+    </form>
+{% if message %}
+	<p>{{message}}</p>
+{% endif %}
+</body>
+</html>

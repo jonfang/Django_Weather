@@ -1,0 +1,99 @@
+Bay Point,US
+Benicia,US
+Berkeley,US
+Beverly Hills,US
+Bloomington,US
+Burlingame,US
+Campbell,US
+Castro Valley,US
+Chino Hills,US
+Citrus Heights,US
+Compton,US
+Concord,US
+Cupertino,US
+Daly City,US
+Davis,US
+Dixon,US
+Fair Oaks,US
+Fairfield,US
+Foster City,US
+Fountain Valley,US
+Fremont,US
+Fresno,US
+Fullerton,US
+Hollywood,US
+Irvine,US
+Los Altos,US
+Los Gatos,US
+Mountain View,US
+Oakland,US
+Palo Alto,US
+Placentia,US
+Pleasant Hill,US
+Pleasanton,US
+Pomona,US
+Port Hueneme,US
+Poway,US
+Prunedale,US
+Ramona,US
+Rancho Cordova,US
+Rancho Cucamonga,US
+Rancho Mirage,US
+Rancho Palos Verdes,US
+Rancho San Diego,US
+Rancho Santa Margarita,US
+Redlands,US
+Redondo Beach,US
+Redwood City,US
+Rialto,US
+Richmond,US
+Rio Linda,US
+Riverbank,US
+Riverside,US
+Rocklin,US
+Rohnert Park,US
+Rosamond,US
+Rosemead,US
+Rosemont,US
+Roseville,US
+Rowland Heights,US
+Rubidoux,US
+Sacramento,US
+Salinas,US
+San Bernardino,US
+San Bruno,US
+San Carlos,US
+San Clemente,US
+San Diego,US
+San Fernando,US
+San Francisco,US
+San Jose,US
+San Lorenzo,US
+San Marcos,US
+San Mateo,US
+San Pablo,US
+San Rafael,US
+San Ramon,US
+Santa Ana,US
+Santa Barbara,US
+Santa Clara,US
+Santa Clarita,US
+Santa Cruz,US
+Santa Fe Springs,US
+Santa Monica,US
+Santa Paula,US
+Santa Rosa,US
+Saratoga,US
+Seal Beach,US
+Sherman Oaks,US
+Simi Valley,US
+South El Monte,US
+South Gate,US
+South Pasadena,US
+San Francisco,US
+Stockton,US
+Sunnyvale,US
+Union City,US
+Walnut,US
+Walnut Creek,US
+West Sacramento,US
