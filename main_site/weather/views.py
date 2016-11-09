@@ -22,7 +22,8 @@ def index(request):
 def search(request):
     "Search and return requested data"""
     if 'q' in request.GET:
-        forecast={} 
+        forecast={}
+        cursor = db.sample_weather.find()
         city_list = list(document['location'] for document in cursor)
         q = request.GET['q']
         if q in city_list: #if the requested city is in the city list
