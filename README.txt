@@ -1,6 +1,6 @@
 *python3.4+ required, django 1.9.5+ required 
 sudo apt-get install python3-pip
-sudo pip install Django==1.9.5
+sudo pip3 install Django==1.9.5
 virtualenv to check software dependency
 
 #1:install virtualenv for the virtual environment
